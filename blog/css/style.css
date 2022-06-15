@@ -1,3 +1,6 @@
+html{
+    font-size: 16px;
+}
 body
 {
     color: #1c1a1a;
@@ -5,8 +8,22 @@ body
 }
 .container
 {
-    width: 700px;
+    width: 70%;
     padding: 1rem;
     margin: 0 auto;
     border: 2px solid #1c1a1a;
+}
+.container h1
+{
+    font-size: 1.3rem;
+}
+.cabecera
+{
+    color: #fff;
+    width: 70%;
+    margin: 0 auto;
+    background-color: #1b1bdd;
+    padding: 0.5rem 1rem;
+    line-height: 1rem;
+
 }
